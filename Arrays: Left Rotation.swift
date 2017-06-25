@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem
 import Foundation
 
 func readArrayOfInts() -> [Int] {
